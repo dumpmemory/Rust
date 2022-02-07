@@ -8,6 +8,7 @@
     * [Polybius](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/polybius.rs)
     * [Rot13](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/rot13.rs)
     * [Sha256](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/sha256.rs)
+    * [Tea](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/tea.rs)
     * [Transposition](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/transposition.rs)
     * [Vigenere](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/vigenere.rs)
     * [Xor](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/xor.rs)
@@ -19,6 +20,7 @@
     * [Heap](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/heap.rs)
     * [Linked List](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/linked_list.rs)
     * [Queue](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/queue.rs)
+    * [Rb Tree](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/rb_tree.rs)
     * [Stack Using Singly Linked List](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/stack_using_singly_linked_list.rs)
     * [Trie](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/trie.rs)
   * Dynamic Programming
